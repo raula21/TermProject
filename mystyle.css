@@ -1,0 +1,27 @@
+/* CSS style for term project by Zander Raul */
+
+
+
+body{
+background-color: #1E90FF;
+margin: 0;
+}
+#top {
+  background-color: #FFFAF0;
+
+}
+h1 {
+  text-align: center;
+  color: #4682B4;
+  margin-top: 0;
+  padding: 1rem;
+  font-size: 3rem;
+}
+
+blockquote {
+  margin-left: 2rem;
+  border-left: .5rem solid #000000;
+}
+
+a:link {color: #FFD700	
+}

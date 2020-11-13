@@ -10,6 +10,9 @@ margin: 0;
 h1 {
   text-align: center;
   color: #04415A;
+  margin-top: 0;
+  padding: 1rem;
+  font-size: 3rem;
 }
 
 .redtext {
